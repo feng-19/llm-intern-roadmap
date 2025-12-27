@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+miniconda3/
+*.model
+*.bin
+*.pt
+*.sh
